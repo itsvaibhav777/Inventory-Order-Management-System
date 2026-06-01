@@ -51,10 +51,9 @@ A full-stack web application for managing products, customers, orders, and inven
    ```
 
 4. **Access the application**
-   - Frontend: http://localhost:3000
-   - Backend API: http://localhost:8000
-   - API Docs (Swagger): http://localhost:8000/docs
-   - API Docs (ReDoc): http://localhost:8000/redoc
+   - Frontend: https://inventory-order-management-system-mocha.vercel.app/
+   - Backend API: https://inventory-order-management-system-4nio.onrender.com
+   - API Docs (Swagger): https://inventory-order-management-system-4nio.onrender.com/docs
 
 5. **Stop services**
    ```bash
